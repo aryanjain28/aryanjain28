@@ -21,9 +21,10 @@ My area of interest lies in deep-learning projects, mainly Computer Vision.❤�
 
 ### Languages and Tools
 
- ![](/home/aryan/Downloads/pngwing.com.png) ![](/home/aryan/Downloads/pngwing.com(3).png) ![](/home/aryan/Downloads/pngwing.com(1).png) ![](/home/aryan/Downloads/pngwing.com(5).png) ![](/home/aryan/Downloads/pngwing.com(4).png) 
+<img height="40" src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/image5.png" />  <img height="40" src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/image1.png" />  <img height="40" src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/image2.png" />  <img height="40" src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/image4.png" />  <img height="40" src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/image3.png" />
 
-📨 Email: aryanjn807@gmail.com
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aryanjain28" alt="aryanjain28"/> </p>
 
 
 <!--
