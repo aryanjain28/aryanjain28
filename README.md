@@ -16,8 +16,12 @@ My area of interest lies in deep-learning projects, mainly Computer Vision.â¤ï¸
 
 <a href="https://github.com/aryanjain28/aryanjain28">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjain28&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aryan's GitHub Stats" />
-  </a>
+</a>
 
+<!-- <a href="https://github.com/aryanjain28/aryanjain28">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjain28&hide=Jupyter%20Notebook&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aryan's Top Langauages" />
+</a>
+ -->
 
 ### Languages and Tools
 
