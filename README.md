@@ -20,7 +20,7 @@ My area of interest lies in deep-learning projects, mainly Computer Vision.â¤ï¸
 <br />
 <br />
 
-<!-- <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjain28&theme=dark" alt="Aryan's GitHub Stats" />  -->
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjain28&theme=dark" alt="Aryan's GitHub Stats" /> 
  
 
 ### Languages and Tools
