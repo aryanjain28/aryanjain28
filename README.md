@@ -1,4 +1,6 @@
-# Hey there, I'm Aryan!
+<!-- # Hey there, I'm Aryan! -->
+
+<img src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/aryanLogo.png" width="60%" />
 
 I'm a self-taught passionate developer from India.
 
