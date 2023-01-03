@@ -8,7 +8,8 @@ My area of interest lies in deep-learning projects, mainly Computer Vision.❤�
 
 ### About me
 
-- 🧑‍💻 Software Developer at [Josh Software](https://joshsoftware.com/)
+- 🎓 Khoury College of Computer Sciences, Northeastern University, Boston
+- 🧑‍💻 Ex Software Developer at [Josh Software](https://joshsoftware.com/)
 - 🚧 Current ongoing project: [Neural Networks from Scratch](https://github.com/aryanjain28/Neural-Networks-from-Scratch)
 - **👀** Portfolio: [aryanjain28.github.io](https://aryanjain28.github.io/)
 
