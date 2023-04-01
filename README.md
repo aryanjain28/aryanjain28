@@ -1,6 +1,6 @@
 <!-- # Hey there, I'm Aryan! -->
 
-<img src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/aryanLogo.png" width="100%" />
+<img src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/logo.png" width="100%" />
 
 I'm a self-taught passionate developer from India.
 
