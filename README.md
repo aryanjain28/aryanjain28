@@ -4,7 +4,7 @@
 
 I'm a self-taught passionate developer.
 
-My area of interest lies in deep-learning projects, mainly Computer Vision.❤
+My area of interest lies in deep-learning projects, mainly Computer Vision.❤ 
 
 ### About me
 
