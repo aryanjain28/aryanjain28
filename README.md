@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/aryanjain28/aryanjain28/main/logo.png" width="100%" />
 
 I'm a self-taught passionate developer.
-
 My area of interest lies in deep-learning projects, mainly Computer Vision.❤ 
 
 ### About me
