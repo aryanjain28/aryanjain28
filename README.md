@@ -9,7 +9,7 @@ My area of interest lies in full-stack web development as well as deep-learning 
 
 - 🎓 Khoury College of Computer Sciences, Northeastern University, Boston
 - 🧑‍💻 Ex Software Developer at [Josh Software](https://joshsoftware.com/)
-- 🚧 Current ongoing project: [Metamorphix](https://github.com/aryanjain28/Metamorphix)
+- 🚧 Current ongoing project: [Metamorphix](https://github.com/aryanjain28/Metamorphix) + [Dumb Charade Challenge](https://github.com/aryanjain28/Dumb-Charades/#readme)
 - **👀** Portfolio: [aryanjain28.github.io](https://aryanjain28.github.io/)
 
 <br />
