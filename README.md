@@ -3,7 +3,7 @@
 
 
 
-I'm a passionate developer with an unwavering commitment to coding! 
+I'm a passionate developer with an unwavering commitment to coding!
 My area of interest lies in full-stack web development as well as deep-learning projects (mainly Computer Vision). 
 
 ### About me
